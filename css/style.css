@@ -131,3 +131,13 @@ i {
 .script{
   nav-up: right;
 }
+.footer{
+  background-color: #6c6e6e;
+}
+.--choose {
+  background-color: #4df2f8;
+
+}
+.ol{
+  background-color: #008CBA;
+}

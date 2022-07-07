@@ -1,5 +1,5 @@
-# Projact
- Source Code :https://shiponsaha839.github.io/Projact/
- Web View:
- 
- Technology:HTML ,CSS, Bootstrap, Javascript.
+# Projact  
+ Source Code :https://shiponsaha839.github.io/Projact/  
+ Web View: https://shiponsaha839.github.io/Projact/   
+ Reference:https://fortune.com/
+ Technology:HTML ,CSS, Bootstrap, Javascript.  
